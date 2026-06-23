@@ -129,8 +129,8 @@ Several products exhibit strong dependence on discounts, suggesting the need for
 
 ## 📷 Dashboard Preview
 
-![Dashboard](<img width="1343" height="731" alt="image" src="https://github.com/user-attachments/assets/9464fb91-22ec-49cb-907b-4582257ca2f1" />
-)
+<img width="1343" height="731" alt="image" src="https://github.com/user-attachments/assets/9464fb91-22ec-49cb-907b-4582257ca2f1" />
+
 
 ---
 
