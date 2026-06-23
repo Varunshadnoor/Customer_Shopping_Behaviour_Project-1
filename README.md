@@ -1,6 +1,6 @@
 # 🛍️ Customer Shopping Behavior Analysis
 
-An end-to-end Data Analytics project that analyzes customer purchasing behavior, spending patterns, product preferences, and subscription trends using Python, PostgreSQL, SQL, and Power BI.
+An end-to-end Data Analytics project that analyzes customer purchasing behavior, spending patterns, product preferences, and subscription trends using Python, MySQL, SQL, and Power BI.
 
 The objective of this project is to transform raw transactional data into actionable business insights that can help retailers improve customer retention, optimize marketing strategies, and increase revenue.
 
@@ -10,7 +10,7 @@ The objective of this project is to transform raw transactional data into action
 
 ✔ Cleaned and transformed 3,900 customer transaction records using Python
 
-✔ Built a PostgreSQL database and performed business-focused SQL analysis
+✔ Built a MySql database and performed business-focused SQL analysis
 
 ✔ Created customer segmentation based on purchasing behavior
 
@@ -28,7 +28,7 @@ The objective of this project is to transform raw transactional data into action
 |-----------|------------|
 | Programming | Python |
 | Data Manipulation | Pandas, NumPy |
-| Database | PostgreSQL |
+| Database | MySQLWorkBench |
 | Query Language | SQL |
 | Visualization | Power BI |
 | IDE | VS Code, Jupyter Notebook |
@@ -62,7 +62,7 @@ This project answers several real-world business questions:
 
 ### 2. Database Integration
 
-- Connected Python with PostgreSQL
+- Connected Python with MySQL
 - Loaded cleaned dataset into the database
 - Prepared data for SQL analysis
 
@@ -154,7 +154,7 @@ Customer-Shopping-Behavior-Analysis
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
 - SQL Querying
-- PostgreSQL
+- MySQL
 - Business Analytics
 - Customer Segmentation
 - Data Visualization
